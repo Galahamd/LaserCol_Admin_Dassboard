@@ -39,6 +39,7 @@ onMounted(fetchUsers);
   </div>
 </template>
 
+
 <style scoped>
 /* Scoped styles are removed as Tailwind handles everything */
 </style>
